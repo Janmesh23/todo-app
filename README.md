@@ -39,7 +39,7 @@ The app features:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Janmesh23/todo-app.git
    cd todo-app
    ```
 
