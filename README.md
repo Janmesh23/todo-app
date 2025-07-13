@@ -117,17 +117,4 @@ The app uses a modern dark theme with:
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Future Enhancements
-
-Possible improvements:
-- Local storage persistence
-- Todo categories/tags
-- Due dates
-- Priority levels
-- Search and filter functionality
-- Drag and drop reordering
-- Dark/light theme toggle
+ 
